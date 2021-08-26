@@ -1,4 +1,4 @@
-# EcrBottomSheet (TEST ONLY)
+# EcrBottomSheet (TEST COPY ONLY) (NOT USE, USE ORIGINAL)
 
 [![SwiftPM compatible](https://img.shields.io/badge/SwiftPM-compatible-brightgreen.svg)](https://swift.org/package-manager/)
 [![GitHub version](https://img.shields.io/github/v/release/LucasMucGH/EcrBottomSheet?sort=semver)](https://github.com/LucasMucGH/EcrBottomSheet/releases)
